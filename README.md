@@ -1,0 +1,5 @@
+Course Overview.
+
+In this course we learned the fundamentals of machine learning. The overarching project was to train an AI agent to complete the pirate treasure maze. In this project I was given some DQN components but developed the training loop that uses reinforcement learning to become more efficient at navigating the maze and locating the treasure.  I implemented epsilon-greedy action selection and performance tracking while integrating experience replay and neural network training into the training loop to improve the agent's ability to complete the maze.
+
+Computer scientists develop software to solve problems and improve existing technologies. I approach problems by breaking them down into smaller parts, testing solutions, and making adjustments when necessary. Throughout this course, I learned how machine learning can be used to solve complex problems, but also how important it is to consider ethical responsibilities such as protecting user privacy, preventing bias, and developing reliable systems.
